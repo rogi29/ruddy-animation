@@ -1,0 +1,7 @@
+{
+  "name": "ruddy-animation",
+  "main": [
+    "animation.min.js"
+  ],
+  "ignore": []
+}
