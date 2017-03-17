@@ -1,0 +1,19 @@
+{
+  "name": "ruddy-animation",
+  "version": "1.0.0",
+  "description": "RuddyJS animation extenstion",
+  "main": "animation.js",
+  "scripts": {
+    "minify": "uglifyjs ./animation.js -o ./animation.min.js"
+  },
+  "keywords": [
+    "npm",
+    "animation",
+    "compatibility",
+    "polyfill"
+  ],
+  "authors": [
+    "Gil Nimer <gil@ruddy.nl>"
+  ],
+  "license": "MIT"
+}
