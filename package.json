@@ -1,7 +1,7 @@
 {
   "name": "ruddy-animation",
   "version": "1.0.0",
-  "description": "RuddyJS animation extenstion",
+  "description": "RuddyJS animation extension",
   "main": "animation.js",
   "scripts": {
     "minify": "uglifyjs ./animation.js -o ./animation.min.js"
